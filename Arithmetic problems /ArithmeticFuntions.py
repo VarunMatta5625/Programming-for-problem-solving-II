@@ -20,9 +20,10 @@ def quotient (x,y):
 def rem (x,y):
     return x%y
 
+print("Operations are:")
 print(f'The sum is {add(x,y)}')
 print(f'The difference is {diff(x,y)}')
 print(f'The product is {pro(x,y)}')
-print(f'The quotient (floating point) is {division(x,y):.2f}')
+print(f'The quotient (floating point) is {division(x,y):.90f}')
 print(f'The quotient is {quotient(x,y)}')
 print(f'The remiander when division is performed between {x} and {y} is {rem(x,y)}')
