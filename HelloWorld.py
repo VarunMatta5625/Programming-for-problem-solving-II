@@ -6,3 +6,5 @@ It is nice weather today''')
 
 #hello world
 '''Hello world'''
+
+print('hello',"world"+"!")
