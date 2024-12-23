@@ -54,7 +54,7 @@ Outputs to: <br>
 Let's start with an example 
 ```
 student = [["varun","20204005625","vmatta@student.gitam.edu]
-         ]
+]
 
 print(student)
 ```
