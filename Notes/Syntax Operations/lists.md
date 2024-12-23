@@ -53,7 +53,8 @@ Outputs to: <br>
 # 2D Lists
 Let's start with an example 
 ```
-student = [["varun","20204005625","vmatta@student.gitam.edu"]]
+student = [["varun","20204005625","vmatta@student.gitam.edu]
+         ]
 
 print(student)
 ```
