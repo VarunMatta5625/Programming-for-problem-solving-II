@@ -13,7 +13,18 @@ print(type(a))
 print(type(b))
 print(type(c))
 ```
-Outputs, <br>
+Outputs to, <br>
 `<class 'int'>`<br>
 `<class 'int'>`<br>
 `<class 'str'>`<br>
+
+<br>
+
+`type()` can also be used to identify lists
+```
+a = []
+print(type(a))
+```
+
+Outputs to, <br>
+`<class 'list'>`
