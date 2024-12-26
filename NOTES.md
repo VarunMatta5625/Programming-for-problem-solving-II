@@ -1,4 +1,3 @@
-# Operators
 # Functions
 In mathematical functions,a relationship is defined between one variable (the independent variable) and another variable (the dependent variable).
 
@@ -65,11 +64,3 @@ print(type(a))
 
 Outputs to, <br>
 `<class 'list'>`
-
-
-
-
-
-<br> <br><br><br><br><br><br><br><br>
-
-## User-Defined Functions
