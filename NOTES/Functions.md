@@ -33,7 +33,6 @@ Outputs to,
 <br> <br> 
 ---
 <br> <br>
-
 ### 2) type() <br>
 The type function consists of the following, <br>
 `type(object)` <br>
