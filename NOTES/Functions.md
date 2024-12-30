@@ -67,5 +67,10 @@ Outputs to, <br>
 
 ---
 
-### 2) `dir()` 
+### 4) `id()` 
+Every object in memory has a unique ID during its lifetime and this `id()` returns that value <br>
+
+---
+
+### 4) `dir()` 
 shows all the list of attributes and methods belonging to a specific object <br>
