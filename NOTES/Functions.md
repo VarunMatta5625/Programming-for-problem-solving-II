@@ -30,9 +30,10 @@ print("Hello","World")
 Outputs to,  
 >Hello World
 >
-<br> <br> 
+
 ---
-<br> <br>
+<br> 
+
 ### 2) type() <br>
 The type function consists of the following, <br>
 `type(object)` <br>
@@ -63,3 +64,8 @@ print(type(a))
 
 Outputs to, <br>
 `<class 'list'>`
+
+---
+
+### 2) `dir()` 
+shows all the list of attributes and methods belonging to a specific object <br>

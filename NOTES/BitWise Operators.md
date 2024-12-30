@@ -4,13 +4,3 @@
 `&` is called ampersand and is used for <mark>bitwise and</mark>. <br>
 `^` is called caret and is used for <mark>exclusive or operation</mark>. <br>
 
-----
-
-<br>if we perform an `&` operator between a given number and 1 , and the result is given out as 0, 
-<br> <br>
-The number is clearly determined to be an even number. if the result is given as 1, then it is an odd number.
-
----
-
-## Swapping two numbers with only 2 variables using bitwise operators
-
