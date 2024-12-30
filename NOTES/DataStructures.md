@@ -17,6 +17,36 @@ print(type(a))
 which prints `<class 'list'>`, classifying it as a **list**
 
 ---
+
+# Tuple
+Tuple can be created like `tup_1 = ()`
+<br>Tuple's are NOT mutable<br>
+These are compatible with heterogenous type of data and this tuple is close to a **list ()** 
+<br> Tuple is hashable
+<br>Again these are ordered and indexed <br>
+`a = (2)` is **int** but `a = (2,)` is a **tuple** <br>
+More such can be stored like `a = (2,2.3,'a', "vinyl")`
+
+---
+
+# Set
+can be created as `s_1 = set()` <br>
+**sets are not ordered hence cannot be indexed**
+<br> sets can be assigned after creating by ` s_1 = {23,21,25,76}`. <br>
+sets cannot be `id()`ed
+<br> Are sets mutable? <br>
+Sets are non-redundant, a.k.a will remove repeated elements.<br>
+Sets are not hashable, but only hashable objects can be elements of sets. Hence lists cannot be a part of sets, but tuples can be.
+
+---
+
+# Dictionary - dict
+Dicts can be indexed using key value
+<br> can be declared using `d_1 = {1:"Distance", 2:"Car"}` and `1` is the key value for `Distance`
+
+
+
+---
 # To summarize the above
 | Collection  | isHeterogeneous | isIndexed | isOrdered | IsMutable | isHashable | Allows Duplicates |
 | :---------- | :-------------: | :-------: | :-------: | :-------: | :--------: | :---------------: |
@@ -24,6 +54,8 @@ which prints `<class 'list'>`, classifying it as a **list**
 | Tuple       | ✅              | ✅        | ✅        | ❌        | ✅         | ✅                |
 | Set         | ✅              | ❌        | ❌        | ✅        | ❌         | ❌                |
 | Dictionary  | ✅              | ✅        | ✅        | ✅        | Keys: ✅   | ❌                |
+
+[What does it mean to be Hashable?](./Hash.md)
 
 ---
 # Footnotes
