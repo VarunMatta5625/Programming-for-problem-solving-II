@@ -4,10 +4,21 @@ A hash value is like a unique ID created for a piece of data.<br>It's a number c
 
 Now the key fact is that, it is deterministic because **the same input always produces the same hash value**.
 
-And at the same time the hash value has a fixed size, regardless of the input siz.
+And at the same time the hash value has a fixed size, regardless of the input size.
 
-Creating this said **hash value** is called **hashing**.
+The process of  this said **hash value** is called **hashing**.
 This can be done by using `hash()`
 
 In python,
 The `hash()` function computes the **hash value** for immutable objects like strings, integers, tuples.
+
+---
+| Data Type   | isHashable |
+| :---------- | :--------: |
+| int         | ✅         |
+| float       | ✅         |
+| str         | ✅         |
+| list        | ❌         |
+| tuple       | ✅         |
+| set         | ❌         |
+| dict        | ❌         |
