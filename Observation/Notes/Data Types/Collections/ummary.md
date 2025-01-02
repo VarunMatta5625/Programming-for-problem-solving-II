@@ -7,7 +7,8 @@
 | Set         | ✅              | ❌        | ❌        | ✅        | ❌         | ❌                | ❌        |
 | Dictionary  | ✅              | ✅        | ✅        | ✅        | Keys: ✅   | ❌                | ❌        |
 
-*[What does it mean to be Hashable?] (https://github.com/VarunMatta5625/Programming-for-problem-solving-II/blob/main/Observation/Notes/%20Functions/Library_Functions/hash.md}
+*[What does it mean to be Hashable?](https://github.com/VarunMatta5625/Programming-for-problem-solving-II/blob/main/Observation/Notes/%20Functions/Library_Functions/hash.md)
+
 
 
 
