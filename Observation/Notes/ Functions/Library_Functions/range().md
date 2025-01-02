@@ -1,4 +1,4 @@
- `range()`
+# `range()`
 python range function requires atleast one argument and if an end limit argument is provided, it only considers till n-1.
 syntax:
 ```
