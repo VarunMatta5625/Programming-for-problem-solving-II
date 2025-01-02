@@ -7,7 +7,18 @@
 | Set         | ✅              | ❌        | ❌        | ✅        | ❌         | ❌                | ❌        |
 | Dictionary  | ✅              | ✅        | ✅        | ✅        | Keys: ✅   | ❌                | ❌        |
 
+*[What does it mean to be Hashable?](Observation/Notes/ Functions/Library_Functions/hash.md)
 
-*[What does it mean to be Hashable?](../Functions()/Library%20Functions/hash().md)
+
+
+
+
+
+
+
+
+
+
+
 
 
